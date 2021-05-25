@@ -9,7 +9,8 @@ import java.util.Scanner;
 
 /**
  * interaction -I/O
- * @author sivagamasrinivasan
+ * @author sivagamasrinivasan 
+ * date: 25.05.2021
  */
 public class CardGameExample {
 
