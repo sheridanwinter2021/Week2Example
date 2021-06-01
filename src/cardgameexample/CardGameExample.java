@@ -8,7 +8,7 @@ package cardgameexample;
 import java.util.Scanner;
 
 /**
- * interaction -I/O
+ * interaction -I/O branch
  * @author sivagamasrinivasan 
  * date: 25.05.2021
  * */
