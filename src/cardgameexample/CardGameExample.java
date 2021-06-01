@@ -11,7 +11,7 @@ import java.util.Scanner;
  * interaction -I/O
  * @author sivagamasrinivasan 
  * date: 25.05.2021
- * updated/
+ * updated*/
 public class CardGameExample {
 
     /**
